@@ -1,0 +1,45 @@
+body
+{
+  color: rgb(222, 234, 158);
+  background: #1da558;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading
+{
+font-size: 18px;
+border-radius: 10px;
+letter-spacing: 10px;
+}
+label{
+  font-size: 14px;
+  padding:6px;
+  border-radius:10px;
+  color:rgb(213, 161, 176);
+  background-color:rgb(129, 123, 220);
+}
+.main{
+background-color:aquamarine;
+color:blue;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
